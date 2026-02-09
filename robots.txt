@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tea-app-removal.github.io/Tea-App-Green-Flags/sitemap.xml
